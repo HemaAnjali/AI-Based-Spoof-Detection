@@ -67,9 +67,9 @@ Due to the large dataset size, datasets are not uploaded to this repository.
 
 ![image](Outputs/spectrogram.png)
 
-• LFRCC Feature Extraction Pipeline <br>
+• LFRCC Feature Extraction Architecture <br>
 
-![image](Outputs/architecture.png)
+![image](Outputs/LFRCC Feature Extraction archi.png)
 
 # Results
 
