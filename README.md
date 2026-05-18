@@ -61,7 +61,7 @@ Due to the large dataset size, datasets are not uploaded to this repository.
 
 • LP Residual Analysis <br>
 
-![image](Outputs/lp_residual.png)
+![image](Outputs/Analysis.png)
 
 • Spectrogram comparison of real vs fake speech <br>
 
