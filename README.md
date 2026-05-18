@@ -65,7 +65,7 @@ Due to the large dataset size, datasets are not uploaded to this repository.
 
 • Spectrogram comparison of real vs fake speech <br>
 
-![image](Outputs/spectrogram.png)
+![image](Outputs/Comp.png)
 
 • LFRCC Feature Extraction Architecture <br>
 
