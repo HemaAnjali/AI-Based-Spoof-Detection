@@ -69,7 +69,7 @@ Due to the large dataset size, datasets are not uploaded to this repository.
 
 • LFRCC Feature Extraction Architecture <br>
 
-![image](Outputs/LFRCC Feature Extraction archi.png)
+![image](Outputs/architecture.png)
 
 # Results
 
